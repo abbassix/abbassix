@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever you want ;-)
 - 📫 How to reach me: 
     <!--- Website: [abbassix.com](https://abbassix.com)-->
-    - Gmail : <a href="MAILTO:andreierardi@gmail.com">andreierardi@gmail.com</a> 
+    - Gmail : <a href="mailto:mehdi.n.abbassi@gmail.com">mehdi.n.abbassi@gmail.com</a> 
 
 --- 
 **Languages and Tools:**  
