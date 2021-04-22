@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/abbassix)](https://github.com/abbassix)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehdi.n.abbassi@gmail.com)](mailto:mehdi.n.abbassi@gmail.com)
 
-Graduated student of Data Science and Economics at the University of Milan.
+Graduate student of Data Science and Economics at the University of Milan.
 M.A. of Philosophy, B.Sc. of Manufactoring Engineering
 
 <br>
