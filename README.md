@@ -1,41 +1,32 @@
-![](https://visitor-badge.glitch.me/badge?page_id=abbassix)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehdi-abbassi/)](https://www.linkedin.com/in/mehdi-abbassi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mabbassix)](https://twitter.com/mabbassix)
-[![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/abbassix)](https://github.com/abbassix)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mehdi.n.abbassi@gmail.com)](mailto:mehdi.n.abbassi@gmail.com)
+# Mehdi Abbassi's GitHub Profile
 
-Graduate student of Data Science and Economics at the University of Milan.
-M.A. of Philosophy, B.Sc. of Manufacturing Engineering
+## Welcome!
 
-<br>
+Hello there! I'm Mehdi Abbassi, a dedicated and passionate student from the University of Milan, majoring in Data Science and Economics. I'm deeply fascinated by the power of data and how it can be used to solve complex problems, make informed decisions, and drive innovation across various domains. Here on GitHub, you'll find a collection of my projects, experiments, and contributions that reflect my journey in the fascinating world of data science and machine learning.
 
-<!--
-**abbassix/abbassix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Featured Project: AdaBoost Implementation in Python
 
-Here are some ideas to get you started:
+One of my proudest achievements is implementing the AdaBoost (Adaptive Boosting) algorithm from scratch in Python. This project is a testament to my understanding of ensemble methods in machine learning and my ability to translate theoretical concepts into practical, efficient code.
 
-- 🔭 I’m currently working on Persian Twitter Network
-- 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on Persian Twitter Network project
-- 💬 Ask me about whatever you want ;-)
-- 📫 How to reach me: 
-    <!--- Website: [abbassix.com](https://abbassix.com)-->
-    - Gmail : <a href="mailto:mehdi.n.abbassi@gmail.com">mehdi.n.abbassi@gmail.com</a> 
+### [AdaBoost Implementation in Python](https://github.com/abbassix/AdaBoost)
 
---- 
-**Languages and Tools:**  
+**Overview:**
+The AdaBoost project is a deep dive into the mechanics of boosting algorithms, specifically AdaBoost, and its application to binary classification problems. I've built this project from the ground up, showcasing not only my coding skills but also my grasp on complex machine learning algorithms.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+**Highlights:**
+- Entirely from-scratch implementation, emphasizing understanding and optimization.
+- Detailed exploration of hyperparameters and their impact on model performance.
+- Rigorous testing and validation, including a custom cross-validation utility script.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+This project stands as a cornerstone of my portfolio, demonstrating my capabilities in algorithm implementation, problem-solving, and critical analysis. It's an excellent example of my hands-on approach to learning and my commitment to excellence in the field of data science.
 
+## Other Projects
 
-<summary>📈 My GitHub Stats</summary>
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbassix&show_icons=true&theme=gotham" alt="abbassix" />
+You'll find several other projects in my repository, ranging from exploratory data analysis (EDA) to more complex machine learning models and even contributions to open-source initiatives. Each project is an opportunity for me to learn something new and push the boundaries of my knowledge and skills.
+
+## Let's Connect
+
+I'm always open to connecting with fellow data enthusiasts, potential collaborators, or anyone interested in discussing opportunities in data science and machine learning. Feel free to reach out to me here on GitHub or through my email: mehdi.abbassi@studenti.unimi.it
+
+Thank you for visiting my profile, and I look forward to connecting with you!
